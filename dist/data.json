@@ -1,0 +1,225 @@
+{
+  "personal": {
+    "name": "I Putu Agus Yudi Artawan",
+    "title": "Frontend Web Developer",
+    "subtitle": "5 Years of Experience · JavaScript · Vue.js · React · Nuxt.js",
+    "location": "Bali, Indonesia.",
+    "email": "smkagus8@gmail.com",
+    "phone": "0812-3624-6911",
+    "github": "Agus Yudi",
+    "photo": "/profile.jpg",
+    "summary": "Frontend Web Developer with 5 years of experience building fast, responsive, and SEO-optimized websites. Skilled in JavaScript, Vue.js, Nuxt.js, and React. Certified in Software Development by the Indonesian National Professional Certification Agency (BNSP). Comfortable working remotely and collaborating with global teams to deliver clean, scalable code and great user experiences."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Junior Web Developer",
+      "company": "PT. RTS",
+      "period": "Agustus 2019 – Februari 2021",
+      "type": "Full-time",
+      "description": "Developed and maintained company websites using Laravel framework. Performed regular website maintenance and troubleshooting to ensure optimal performance. Studied and explored AI trading systems to support company innovation initiatives.",
+      "stack": ["Laravel", "Web Development", "AI Trading"]
+    },
+    {
+      "id": 2,
+      "role": "Frontend Web Developer",
+      "company": "PT. MEDIA BALI",
+      "period": "Oktober 2021 – Desember 2021",
+      "type": "Full-time",
+      "description": "Built and maintained websites using Laravel and Vue.js for local business clients. Designed user interfaces with Figma and translated them into responsive web layouts. Ensured site stability through regular maintenance and performance monitoring.",
+      "stack": ["Laravel", "Vue.js", "Figma", "Tailwind CSS"]
+    },
+    {
+      "id": 3,
+      "role": "Web Developer",
+      "company": "MIRACLE GATES",
+      "period": "Februari 2022 – Mei 2023",
+      "type": "Full-time",
+      "description": "Developed and maintained company profile websites and gaming websites using WordPress. Built custom attendance system and internal management tools with Laravel. Handled website updates, SEO optimizations, and performance improvements to enhance user experience.",
+      "stack": ["WordPress", "Laravel", "React.js", "Tailwind CSS"]
+    },
+    {
+      "id": 4,
+      "role": "Frontend Web Developer",
+      "company": "PT SOLID GLOBAL SOLUTION",
+      "period": "Januari 2023 – Agustus 2023",
+      "type": "Full-time",
+      "description": "Developed and maintained responsive frontend applications using Svelte.js and Tailwind CSS. Collaborated with backend teams to deliver seamless user experiences and optimized web performance. Contributed to UI/UX improvements and ensured cross-device compatibility.",
+      "stack": ["Svelte.js", "Tailwind CSS", "Web Design"]
+    },
+    {
+      "id": 5,
+      "role": "Website Developer",
+      "company": "LUCKY1AUSTRALIA",
+      "period": "Oktober 2023 – April 2024",
+      "type": "Contract",
+      "description": "Developed and deployed a business website using WordPress tailored to client specifications. Implemented security best practices to protect the site from common vulnerabilities. Monitored server performance and uptime to ensure continuous availability.",
+      "stack": ["WordPress", "cPanel", "Website Security", "Server Monitoring"]
+    },
+    {
+      "id": 6,
+      "role": "Website Developer",
+      "company": "PT ZEN JIWA RAGA",
+      "period": "Mei 2023 – Sekarang",
+      "type": "Full-time",
+      "description": "Developed and maintained company websites using WordPress, ensuring high performance, responsiveness, and SEO optimization. Built and improved internal systems with Express.js and Vue.js to support business operations. Led website updates and troubleshooting to enhance site stability and user experience.",
+      "stack": [
+        "WordPress",
+        "Vue.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Laravel",
+        "CRM",
+        "SEO"
+      ]
+    },
+    {
+      "id": 7,
+      "role": "Frontend Web Developer",
+      "company": "KOMINFO DENPASAR",
+      "period": "Oktober 2024 – Desember 2024",
+      "type": "Contract",
+      "description": "Designed and developed the UI/UX for the official Denpasar City digital services. Built and deployed a responsive website using Nuxt.js to support smart city initiatives. Collaborated with government stakeholders to ensure the platform meets accessibility and user experience standards.",
+      "stack": ["Nuxt.js", "Tailwind CSS", "UI/UX Design"]
+    }
+  ],
+  "skills": {
+    "languages": [
+      { "name": "JavaScript", "level": 95 },
+      { "name": "HTML & CSS", "level": 98 },
+      { "name": "PHP", "level": 80 }
+    ],
+    "frameworks": [
+      { "name": "Vue.js / Nuxt.js", "level": 92 },
+      { "name": "React.js / Next.js", "level": 85 },
+      { "name": "Laravel", "level": 82 },
+      { "name": "Svelte.js", "level": 75 },
+      { "name": "Express.js / Nest.js", "level": 78 },
+      { "name": "Tailwind CSS", "level": 95 }
+    ],
+    "tools": [
+      { "name": "WordPress", "level": 90 },
+      { "name": "Shopify", "level": 75 },
+      { "name": "Figma", "level": 80 },
+      { "name": "Git", "level": 85 },
+      { "name": "SEO", "level": 80 },
+      { "name": "CRM", "level": 75 }
+    ],
+    "soft": [
+      "Excellent Communication",
+      "Team Collaboration",
+      "Independent Work",
+      "Digital Marketing",
+      "Remote Work",
+      "Computer Science"
+    ]
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor's Degree",
+      "field": "System Information",
+      "institution": "Primakara University",
+      "period": "2019 – 2023"
+    },
+    {
+      "id": 2,
+      "degree": "Vocational High School",
+      "field": "Software Engineering",
+      "institution": "SMK Wira Harapan",
+      "period": "2016 – 2019"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Denpasar Smart City Platform",
+      "description": "Website resmi layanan digital Kota Denpasar. Dibangun dengan Nuxt.js untuk mendukung inisiatif smart city pemerintah dengan aksesibilitas tinggi dan desain responsif.",
+      "stack": ["Nuxt.js", "Tailwind CSS", "UI/UX Design"],
+      "category": "Government",
+      "year": "2024",
+      "link": null,
+      "gradient": "from-blue-500 to-cyan-400",
+      "icon": "🏛️"
+    },
+    {
+      "id": 2,
+      "title": "Gaming & Company Profile Website",
+      "description": "Website gaming dan company profile dengan tampilan modern. Dilengkapi sistem absensi kustom dan tools manajemen internal menggunakan Laravel.",
+      "stack": ["WordPress", "Laravel", "React.js", "Tailwind CSS"],
+      "category": "Web App",
+      "year": "2022",
+      "link": null,
+      "gradient": "from-purple-500 to-pink-500",
+      "icon": "🎮"
+    },
+    {
+      "id": 3,
+      "title": "Business Website – Lucky1Australia",
+      "description": "Website bisnis untuk klien Australia dengan implementasi keamanan best practice, monitoring server, dan optimasi performa yang memastikan uptime 24/7.",
+      "stack": ["WordPress", "cPanel", "Website Security", "Server Monitoring"],
+      "category": "Business",
+      "year": "2023",
+      "link": null,
+      "gradient": "from-green-500 to-teal-400",
+      "icon": "🌏"
+    },
+    {
+      "id": 4,
+      "title": "Responsive Frontend App",
+      "description": "Aplikasi frontend responsif dengan performa tinggi dan UI/UX yang mulus. Dibangun dengan Svelte.js dan berkolaborasi erat dengan tim backend.",
+      "stack": ["Svelte.js", "Tailwind CSS", "REST API"],
+      "category": "Web App",
+      "year": "2023",
+      "link": null,
+      "gradient": "from-orange-500 to-amber-400",
+      "icon": "⚡"
+    },
+    {
+      "id": 5,
+      "title": "CRM & Internal Management System",
+      "description": "Sistem manajemen internal dan CRM berbasis web untuk mendukung operasional bisnis. Diintegrasikan dengan WordPress dan dilengkapi fitur SEO optimization.",
+      "stack": ["Vue.js", "Express.js", "Laravel", "CRM", "SEO"],
+      "category": "Web App",
+      "year": "2023",
+      "link": null,
+      "gradient": "from-blue-600 to-indigo-500",
+      "icon": "📊"
+    },
+    {
+      "id": 6,
+      "title": "Local Business Website – Bali Clients",
+      "description": "Serangkaian website untuk klien bisnis lokal Bali. Desain UI dibuat di Figma lalu diimplementasikan dengan Vue.js dan Laravel, dengan layout responsif.",
+      "stack": ["Laravel", "Vue.js", "Figma", "Tailwind CSS"],
+      "category": "Business",
+      "year": "2021",
+      "link": null,
+      "gradient": "from-cyan-500 to-blue-400",
+      "icon": "🌴"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Software Development",
+      "issuer": "National Professional Certification Agency (BNSP)",
+      "period": "Feb 2023 – Feb 2026",
+      "icon": "🏆"
+    },
+    {
+      "id": 2,
+      "name": "Business Intelligence Associate",
+      "issuer": "Logical Operations",
+      "period": "Jan 2023 – Jan 2026",
+      "icon": "📊"
+    },
+    {
+      "id": 3,
+      "name": "English Language Proficiency Test",
+      "issuer": "Primakara University (608.1 / 990)",
+      "period": "22 Januari 2023",
+      "icon": "🌐",
+      "detail": "Listening 140.6 · Reading 95.1 · Speaking 166.4 · Writing 87.2 · Grammar & Vocab 118.8"
+    }
+  ]
+}
