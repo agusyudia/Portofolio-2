@@ -171,7 +171,7 @@
       "description": "Full-featured web application for managing and scheduling appointments, supporting daily business operations with intuitive booking management.",
       "stack": ["Vue.js", "Laravel", "MySQL"],
       "category": "Web App",
-      "year": "2024",
+      "year": "2026",
       "link": null,
       "gradient": "linear-gradient(135deg, #6366f1, #c084fc)",
       "icon": "📋"
@@ -193,7 +193,7 @@
       "description": "Modern service website for a swimming pool maintenance company serving the Bali region, with service packages and contact integration.",
       "stack": ["React.js", "Tailwind CSS", "Vercel"],
       "category": "Web App",
-      "year": "2024",
+      "year": "2025",
       "link": "https://yudispool.vercel.app/",
       "gradient": "linear-gradient(135deg, #06b6d4, #60a5fa)",
       "icon": "🏊"
@@ -215,7 +215,7 @@
       "description": "Yoga and Ayurveda retreat center website with event calendar, multiple program durations (7/14/21 nights), testimonials, and Google Maps integration.",
       "stack": ["WordPress", "WooCommerce", "Events Calendar", "SEO"],
       "category": "WordPress",
-      "year": "2022",
+      "year": "2023",
       "link": "https://oneworldretreats.com/",
       "gradient": "linear-gradient(135deg, #14b8a6, #22d3ee)",
       "icon": "🧘"
@@ -226,7 +226,7 @@
       "description": "Ayurvedic day spa website in Ubud with WooCommerce, animated product carousels, and booking for traditional wellness treatments.",
       "stack": ["WordPress", "WooCommerce", "SEO"],
       "category": "WordPress",
-      "year": "2021",
+      "year": "2023",
       "link": "https://balibotanica.com/",
       "gradient": "linear-gradient(135deg, #84cc16, #4ade80)",
       "icon": "🌺"
@@ -237,7 +237,7 @@
       "description": "Photography studio website with Amelia appointment booking, session packages, six backdrop options, and digital file delivery via Google Drive.",
       "stack": ["WordPress", "Amelia Booking", "Elementor"],
       "category": "WordPress",
-      "year": "2023",
+      "year": "2024",
       "link": "https://spotstudio.id/",
       "gradient": "linear-gradient(135deg, #ec4899, #fb7185)",
       "icon": "📸"
@@ -259,7 +259,7 @@
       "description": "Custom jewelry studio with portfolio gallery, silversmithing workshop packages, repair services, SEO optimization, and WhatsApp booking integration.",
       "stack": ["WordPress", "WooCommerce", "SEO", "LiteSpeed"],
       "category": "WordPress",
-      "year": "2023",
+      "year": "2025",
       "link": "https://dimensionsjewellerybali.com/",
       "gradient": "linear-gradient(135deg, #eab308, #fbbf24)",
       "icon": "💎"
@@ -270,7 +270,7 @@
       "description": "Multi-location barbershop website (Seminyak, Legian, Canggu) with 6-language support, WhatsApp booking per location, and hairstyle gallery.",
       "stack": ["WordPress", "Elementor", "SEO", "Google Translate"],
       "category": "WordPress",
-      "year": "2023",
+      "year": "2025",
       "link": "https://zainbarber.com/",
       "gradient": "linear-gradient(135deg, #475569, #6b7280)",
       "icon": "✂️"
@@ -281,7 +281,7 @@
       "description": "Adventure tourism website for Bali's premier river rafting operator with combo packages (ATV, coffee tour, trekking), gallery, and WhatsApp booking.",
       "stack": ["WordPress", "WooCommerce", "SEO", "Perfmatters"],
       "category": "WordPress",
-      "year": "2023",
+      "year": "2026",
       "link": "https://www.ubudayungriverrafting.com/",
       "gradient": "linear-gradient(135deg, #2563eb, #22d3ee)",
       "icon": "🚣"
@@ -292,7 +292,7 @@
       "description": "Web platform for Bali kite enthusiasts — simplifies participant registration for kite festivals and provides organizers with tools to manage event data efficiently.",
       "stack": ["Vue.js", "Laravel", "MySQL", "Tailwind CSS"],
       "category": "Web App",
-      "year": "2024",
+      "year": "2026",
       "link": null,
       "gradient": "linear-gradient(135deg, #0ea5e9, #38bdf8)",
       "icon": "🪁"
