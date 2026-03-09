@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yudispool.vercel.app/sitemap.xml
+Sitemap: https://yudidev.vercel.app/sitemap.xml
